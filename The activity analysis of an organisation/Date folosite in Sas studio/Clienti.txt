@@ -1,0 +1,27 @@
+101  Popescu     Daniel      Str. Biserica Doamnei nr. 3, Bucuresti                                 M
+102  Marin       Elena       Str. Eugen Lovinescu Nr.36 sector 1, Bucuresti                         F
+103  Ivan        Maria       Str. D. I. Mendeleev 36-38, sector 1, Bucuresti                        F
+104  Ivan        Alina       Str. Copaceni, nr. 46, et. 1, ap. 2, Bucuresti, Sector 3               F
+105  Ionescu     Ioana       Strada Turturelelor nr. 11 A, sector 3, cladirea Phoenicia Business    F
+106  Stan        Bogdan      Strada Blanari, Nr 21, etaj 2, Sector 3, Bucuresti                     M
+107  Dinu        Constantin  Piata Walter Maracineanu, nr. 1-3, sector 1, Bucuresti                 M
+108  Diaconescu  Mariana     Str. Dem. I. Dobrescu nr. 2-4, sect. 1, Bucuresti                      F
+109  Manole      Mihai       Strada Avalansei, nr. 20-22, sector 4, Bucuresti                       M
+110  Toma        Andrei      Str. Matei Voievod nr.14, sector 2, Bucuresti                          M
+201  Tudor       Cristi      Bld. General Gheorghe Magheru, nr. 7, Sector 1, Bucuresti              M
+202  Barbu       Stefan      Calea Calarasilor 248, Bl. S19, Sector 3, Bucuresti                    M
+203  Tudor       George      Str.Maica Domnului nr.10 bl.T54 sc.1, ap.3, Sector 2                   M
+204  Dinescu     Gheorghe    Bulevardul Carol, nr. 31 - 33                                          M
+205  Georgescu   Alexandru   Bulevardul Iuliu Maniu 59 Sectorul 6 Bucuresti                         M
+207  Stanescu    Ionel       Calea Serban Voda Nr. 133                                              M
+208  Ciobanu     Raluca      Str. Bucur Nr. 2                                                       F
+301  Rusu        Andreea     Bulevardul Dorobanti nr. 116-122                                       F
+302  Ursu        Andreea     Bulevardul Magheru nr. 28-30                                           F
+305  Lupu        Anca        Bulevardul Burebista 4 Bl. D13, Sc. 2, Et. 4, Ap. 50                   F
+402  Popa        Madalina    Str. Ion Campineanu, nr. 28 (Zona Universitate)                        F
+403  Dima        Sorin       Soseaua Mihai Bravu 174 Bl. 229, Sc.A, Ap.1                            M
+602  Sava        Loredana    Bd. Timisoara nr. 26                                                   F
+611  Moise       Sorin       Calea Rahovei 251-253 Sectorul 5 Bucuresti                             M
+889  Blaga       Andrei      Strada Mircea Vulcanescu 82 Sectorul 1 Bucuresti                       M
+890  Iancu       Claudia     Bulevardul Nicolae Grigorescu 29A Bl. N29, Parter Sectorul 3 Bucuresti F
+891  Blaga       Alexandru   Strada Vintila Voda 2 bl.E1,sc1,et .2,ap.6 . Sectorul 3                M
